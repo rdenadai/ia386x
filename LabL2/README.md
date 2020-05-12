@@ -1,4 +1,4 @@
-### L1 - Laboratório
+### L2 - Laboratório
 
 Origem do dataset:
 
