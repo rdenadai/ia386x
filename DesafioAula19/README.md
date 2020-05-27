@@ -20,14 +20,14 @@ Carregamento do dataset:
 
 ## EDA
 
-Correlação entre os atributos...
+Correlação entre os atributos (person correlation).
 
               Height    Weight
     Height  1.000000  0.924756
     Weight  0.924756  1.000000
 
 
-Distribuição dos parâmetros.
+Distribuição dos atributos.
 
 
 ![png](Exercicio_files/Exercicio_7_0.png)
